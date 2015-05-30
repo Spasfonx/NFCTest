@@ -1,3 +1,5 @@
+Ce projet est inspiré des sources de https://github.com/davidsan/racing-line. Nous remercions son équipe.
+
 # Need For Code
 ## Introduction
 Projet d'année de licence 3 MIAGE d'Aix en Provence. L'application est un environnement de jeu de voiture où le joueur devra développer l'intelligence artificielle de sa voiture. Le meilleur algorithme gagne.
